@@ -8,10 +8,10 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <div>Restaurante Etec</div>  {/* é ass q comenta */}
+    {/* é ass q comenta */}
 
     <Cardapio />
   </React.StrictMode>
-);  
+);
 
 
