@@ -1,4 +1,4 @@
-import styles from './Cardapio.module.scss';
+import styles from '../Cardapio/Cardapio.module.scss';
 import logo from 'assets/logo.svg';
 import Buscador from './Buscador';
 import Filtros from './Filtros';
